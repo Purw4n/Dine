@@ -1,0 +1,18 @@
+DECLARE @data NVARCHAR(4000);
+SET @data = N'{
+"employees":
+[      {
+         "name":"Purwanto",
+         "email":"purwanto@kahar.co.id",
+         "age":32
+          
+},
+      {
+         "name":"Mohan",
+         "email":"Mohan@yahoo.com",
+         "age":21
+          
+        }   
+]
+}';
+SELECT JSON_QUERY(@data, '$.employees[0]') AS 'Result';
