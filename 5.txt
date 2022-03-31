@@ -1,0 +1,16 @@
+[{"TID":0,"TN":"ChangeDue","TT":0,"TV":"0"},{"TID":0,"TN":"Tendered","TT":0,"TV":"190.000,00"}]
+[{"TID":0,"TN":"CancelPayments","TT":0,"TV":"Refund: VOUCHER : 100000\u000d\u000a"}]
+[{"TID":0,"TN":"ChangeDue","TT":0,"TV":"0"},{"TID":0,"TN":"Tendered","TT":0,"TV":"55.000,00"}]
+[{"TID":0,"TN":"ChangeDue","TT":0,"TV":"0"},{"TID":0,"TN":"Tendered","TT":0,"TV":"61.050,00"},{"TID":0,"TN":"ApproveRefundUser","TT":0,"TV":"Admin"},{"TID":0,"TN":"CancelPayments","TT":0,"TV":"Refund: CASH : 61050,00\u000d\u000a"},{"TID":0,"TN":"OldRefundTotalValue","TT":0,"TV":"61050,00"},{"TID":0,"TN":"Refund","TT":0,"TV":"0"}]
+[{"TID":0,"TN":"ChangeDue","TT":0,"TV":"0"},{"TID":0,"TN":"Tendered","TT":0,"TV":"11.050,00"}]
+[{"TID":0,"TN":"ChangeDue","TT":0,"TV":"38.950,00"},{"TID":0,"TN":"Tendered","TT":0,"TV":"100.000,00"}]
+[]
+[{"TID":0,"TN":"ChangeDue","TT":0,"TV":"0"},{"TID":0,"TN":"Tendered","TT":0,"TV":"61.050,00"}]
+NULL
+[{"TID":0,"TN":"CancelPayments","TT":0,"TV":"Refund: VOUCHER : 100000\u000d\u000a"}]
+NULL
+NULL
+NULL
+NULL
+[{"TID":0,"TN":"ChangeDue","TT":0,"TV":"0"},{"TID":0,"TN":"Tendered","TT":0,"TV":"222.000,00"}]
+[]
