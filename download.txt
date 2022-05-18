@@ -1,7 +1,2 @@
-https://raw.githubusercontent.com/Purw4n/Dine/main/1.txt
-https://raw.githubusercontent.com/Purw4n/Dine/main/Readme
-https://raw.githubusercontent.com/Purw4n/Dine/main/Readme_1
-https://raw.githubusercontent.com/Purw4n/Dine/main/ConsoleApp1_Ora.exe
-https://raw.githubusercontent.com/Purw4n/Dine/main/CJ_Mar_2022B.pdf
 https://raw.githubusercontent.com/Purw4n/Dine/main/download.txt
 https://raw.githubusercontent.com/Purw4n/Dine/main/HDZ_Daily.exe
