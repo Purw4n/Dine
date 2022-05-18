@@ -1,2 +1,3 @@
 https://raw.githubusercontent.com/Purw4n/Dine/main/download.txt
 https://raw.githubusercontent.com/Purw4n/Dine/main/HDZ_Daily.exe
+https://raw.githubusercontent.com/Purw4n/Dine/main/1.txt
